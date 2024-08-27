@@ -8,3 +8,21 @@ img{
     border-radius: 12px;
     border-color: rgb(243, 138, 138);
 }
+
+h1, h2, p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(146, 146, 245);
+}
+
+p{
+    font-size: 17px;
+}
+
+a{
+    color: rgb(128, 207, 128);
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 19px;
+}
